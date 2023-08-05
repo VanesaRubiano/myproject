@@ -1,0 +1,40 @@
+.mynavbar{
+    background-color: #8dadad;
+background-image: linear-gradient(225deg, #8dadad 0%, #7a7abb 33%, #275073 66%, #07072d 100%);}
+.principal{color: white;}
+.second{color: white;}
+.text-justify{text-align: justify;
+
+}
+.paragraph
+{font-family: 'EB Garamond', serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Playfair Display', serif;
+    
+}
+.paragraph{text-justify: auto;}
+
+.principal{
+    font-family: 'Dancing Script', cursive;
+font-family: 'EB Garamond', serif;
+font-family: 'Libre Baskerville', serif;
+font-family: 'Playfair Display', serif;
+}
+.nav-item{
+    padding: 1px;
+    font-size: small
+    ;
+ 
+
+}
+.container{ 
+
+    width: 90%;
+    margin: auto 0;
+}
+
+.semititles{font-family: 'Dancing Script', cursive;
+
+}
+
+
